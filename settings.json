@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Não encoste o bata em mim, eu sou o Bot que mantém o servidor 24h!",
+        "Não esqueça de ler a regras :)!",
+        "Bom jogo pessoal!"
       ]
     },
     "chat-log": true,
