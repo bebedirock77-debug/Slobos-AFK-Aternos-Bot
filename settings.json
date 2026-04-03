@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "THESMP352.aternos.me",
+    "ip": "chuckwalla.aternos.host",
     "port": 52669,
     "version": "",
     "try-creative": false
